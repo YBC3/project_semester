@@ -1,2 +1,2 @@
 JWPARK
-2023-1 Project Semester
+2023-1 Project
